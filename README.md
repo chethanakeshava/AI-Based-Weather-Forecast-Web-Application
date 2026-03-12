@@ -1,4 +1,4 @@
-# 🌦 AI-Based Weather Forecast Web Application
+#  AI-Based Weather Forecast Web Application
 
 A **Django-based weather forecasting web application** that displays real-time weather data using the **OpenWeatherMap API** and predicts future weather conditions using **Machine Learning models**.
 The application also visualizes temperature trends with **Chart.js**.
@@ -174,6 +174,7 @@ AI & Data Science Student
 Passionate about **Machine Learning, Data Science, and Web Development**
 
 ---
+
 
 
 
